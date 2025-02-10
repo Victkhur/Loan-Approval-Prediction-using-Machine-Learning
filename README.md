@@ -20,3 +20,8 @@ The dataset contains 13 features :
 11. **Credit_History:**	Credit history of individual’s repayment of their debts
 12. **Property_Area:**	Area of property i.e. Rural/Urban/Semi-urban.
 13. **Loan_Status:**	Status of Loan Approved or not i.e. Y- Yes, N-No.
+
+## ⚙️ Installation and Requirement
+1. Clone the repository.
+```
+bash git clone 
