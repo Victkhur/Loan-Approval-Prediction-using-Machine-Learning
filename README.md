@@ -24,4 +24,20 @@ The dataset contains 13 features :
 ## ⚙️ Installation and Requirement
 1. Clone the repository.
 ```
-bash git clone 
+bash git clone Loan-Approval-Prediction-using-Machine-Learning.git
+```
+2. Navigate to the project directory
+```
+cd Loan-Approval-Prediction-using-Machine-Learning
+
+```
+3. Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+## 📊 Data Preprocessing & Feature Engineering
+- Handled missing values using median/mode imputation.
+- Encoded categorical variables using Label Encoding.
+- Scaled numerical features using StandardScaler/MinMaxScaler.
+- Automated feature selection techniques to improve model performance.
