@@ -41,3 +41,24 @@ pip install -r requirements.txt
 - Encoded categorical variables using Label Encoding.
 - Scaled numerical features using StandardScaler/MinMaxScaler.
 - Automated feature selection techniques to improve model performance.
+
+## 🔍 Exploratory Data Analysis (EDA)
+- Visualized distributions of key features.
+- Checked correlations using a heatmap.
+- Analyzed feature importance for better insights.
+
+## 🤖 Machine Learning Models
+The following classification models were implemented:
+
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+
+## 📈 Model Performance
+| Model	| Accuracy	| Precision	| Recall	| F1-Score |
+| ------ | -------- | --------| ----------| --------- | 
+| Logistic Regression	| 85%	82%	80%	81%
+Random Forest	90%	88%	87%	88%
+XGBoost	92%	90%	89%	90%
+
