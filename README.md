@@ -57,8 +57,10 @@ The following classification models were implemented:
 
 ## 📈 Model Performance
 | Model	| Accuracy	| Precision	| Recall	| F1-Score |
-| ------ | -------- | --------| ----------| --------- | 
-| Logistic Regression	| 85%	82%	80%	81%
-Random Forest	90%	88%	87%	88%
-XGBoost	92%	90%	89%	90%
+| ------ | -------- | --------| ----------| --------- |
+|K-Nearest Neighbors | 70.4% | 63% | 59% | 60% |
+| Support Vector Machine | 65.4% | 47% | 49% | 45% |
+| Random Forest | 82.5% | 80% | 77% | 78% |
+| Logistic Regression	| 82.5% | 85% | 73% | 76% |
+
 
