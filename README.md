@@ -65,5 +65,5 @@ The following classification models were implemented:
 
 - Random Forest (RF) and Logistic Regression (LR) models are performing the best, both achieving 82.5% accuracy.
 - However, Random Forest has a better balance between precision and recall, making it more robust for generalization.
-- Worst performer with 65.4% accuracy and the lowest F1-score (45%).
+- Worst performer was Support Vector Machine with 65.4% accuracy and the lowest F1-score (45%).
 
